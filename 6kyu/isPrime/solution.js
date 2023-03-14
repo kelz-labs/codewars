@@ -1,3 +1,6 @@
+/* Task: Belum selesai!!!*/
+
+
 function isPrime(num) {
   let newArr = [];
 
