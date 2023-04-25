@@ -15,3 +15,5 @@ function solution(arr) {
     })
     .reduce((a, b) => a + b);
 }
+
+console.log(solution([4, 6]));
