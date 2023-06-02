@@ -3,7 +3,6 @@
  * - Jika ada satu saja huruf alphabet yang tidak ada di string tersebut, maka return false
  * - Jika ada semua, maka return true
  */
-
 function solution(string) {
   // buat manual daftar alphabet
   let criteria = "abcdefghijklmnopqrstuvwxyz";
