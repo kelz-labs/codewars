@@ -8,3 +8,4 @@ Namanya juga hidup. Jangan lupa bersyukur.
 - stringConstruction(7 kyu)
 - helloWorldWithoutString(7 kyu)
 - Multiplication Table(6 kyu)
+- Find Array(6 kyu)
