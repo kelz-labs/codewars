@@ -1,5 +1,3 @@
-// TODO
-
 function kebabize(str) {
   return (
     str[0].toLowerCase() +
