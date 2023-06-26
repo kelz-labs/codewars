@@ -9,3 +9,4 @@ Namanya juga hidup. Jangan lupa bersyukur.
 - helloWorldWithoutString(7 kyu)
 - Multiplication Table(6 kyu)
 - Find Array(6 kyu)
+- sumNumbersDigits(7 kyu)
