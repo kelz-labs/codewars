@@ -1,6 +1,6 @@
 /**
- * Task: Jika panjang param a > b, maka return string dengan format a + b + a, begitu juga sebaliknya.
+ * Task: Jika panjang param a > panjang b, maka return string dengan format a + b + a, begitu juga sebaliknya.
  */
 function solution(a, b) {
-  return a.length > b ? b + a + b : a + b + a;
+  return a.length > b.length ? `${b}${a}${b}` : `${a}${b}${a}`;
 }
